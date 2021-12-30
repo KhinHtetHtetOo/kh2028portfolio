@@ -225,11 +225,15 @@ body{
 
 /*Start info section*/
 .infos{
+   height: 300px;
   background-color: #cff4d2;
 
 
 }
 .infoboxs{
+
+ 
+
   display: flex;
   justify-content: center;
   align-items: center;
