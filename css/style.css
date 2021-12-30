@@ -240,7 +240,7 @@ body{
 
 }
 .infotexts{
-  color: #56c596;
+  color: #196869;
   font-size: 16px;
   font-weight: bold;
   /*letter-spacing: px;*/
@@ -414,6 +414,7 @@ body{
 .icons{
   font-size: 20px;
   padding: 10px 20px;
+  color: white;
 
   display: flex;
   justify-content: center;
